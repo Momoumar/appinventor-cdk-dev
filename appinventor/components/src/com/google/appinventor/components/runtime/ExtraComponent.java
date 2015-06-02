@@ -39,7 +39,7 @@ import android.content.Context;
     description = "Non-visible component for CDK Testing purpose ",
     category = ComponentCategory.CDKDEV,
     nonVisible = true,
-    iconName = "images/cdk.png") //FIXME
+    iconName = "images/cdk.png")
 @SimpleObject
 public class ExtraComponent extends AndroidNonvisibleComponent implements Component {
 
