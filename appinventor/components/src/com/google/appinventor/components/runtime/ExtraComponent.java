@@ -87,7 +87,7 @@ public class ExtraComponent extends AndroidNonvisibleComponent implements Compon
   @SimpleFunction
   public int Extra(final int input) {
 
-    return 0;//Nothing is made here yet
+    return 0;
   }
 
 }
